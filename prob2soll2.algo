@@ -1,4 +1,4 @@
-ALGORITHM probTwoSolTwo
+ALGORITHM prob2Sol2
 VAR
 	setOne,setTwo : ARRAY_OF INTEGER[10];
 	i,counter : INTEGER := 0;
